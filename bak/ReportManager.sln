@@ -1,0 +1,21 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReportManager", "ReportManager.csproj", "{A6142C4F-43E6-470B-88DC-65199EB707FC}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		Release = Release
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{A6142C4F-43E6-470B-88DC-65199EB707FC}.Debug.ActiveCfg = Debug|.NET
+		{A6142C4F-43E6-470B-88DC-65199EB707FC}.Debug.Build.0 = Debug|.NET
+		{A6142C4F-43E6-470B-88DC-65199EB707FC}.Release.ActiveCfg = Release|.NET
+		{A6142C4F-43E6-470B-88DC-65199EB707FC}.Release.Build.0 = Release|.NET
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal

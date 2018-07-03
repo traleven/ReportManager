@@ -10,6 +10,10 @@
 [Tt]humbs.db
 *.DS_Store
 
+#Other source control systems
+.cvs
+.svn
+
 #Visual Studio files
 *.[Oo]bj
 *.exe
@@ -35,6 +39,7 @@
 *.opensdf
 ipch/
 obj/
+.vs/
 [Bb]in
 Ankh.NoLoad
 *.vcxproj
